@@ -1,0 +1,6 @@
+Code linked to Have App Maintenance Log
+
+Image Loading Html
+  <script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
+<dotlottie-player src="https://lottie.host/43c019ce-97a7-4176-bdb5-94656b7ff423/sxsQTaSS61.lottie" background="transparent" speed="1" style="width: 200px; height: 200px" loop autoplay></dotlottie-player>
+
